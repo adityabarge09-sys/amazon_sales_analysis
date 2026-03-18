@@ -1,4 +1,5 @@
 📊 Amazon Sales Dashboard (Power BI)
+
 📌 Project Overview
 
 This project is a Power BI dashboard built using Amazon sales data. It provides meaningful insights into sales performance, product categories, revenue trends, and customer behavior.
